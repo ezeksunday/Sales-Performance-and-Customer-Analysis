@@ -1,6 +1,3 @@
-![SALES PERFORMANCE INSIGHTS ANALYSIS](Screenshottableau)
-
-
 ### OVERVIEW  
 The project focuses on analysing Walmart's retail sales data to uncover key insights into sales performance, customer behaviour, product trends, and operational efficiency.  
 By leveraging data analytics, the project aims to provide actionable insights that can help optimize business operations, improve customer satisfaction, and drive profitability.  
